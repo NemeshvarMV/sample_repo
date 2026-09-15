@@ -6,3 +6,5 @@ function () => {
 function () => {
     console.log("Hi,this is another index.js")
 }
+
+console.log("This is the end")
